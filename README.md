@@ -1,3 +1,3 @@
-# 🚀 Docker Django Template
+# 🚀 Docker Django Project !
 
 A clean, production-ready Docker Django project...
